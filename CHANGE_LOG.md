@@ -1,7 +1,13 @@
 # Goo Pumps & Oils' Speed Pump :: Change Log
 
-* 2026-0322: 1.9.1.1 (LisiasT) for KSP >= 1.3.1
+* 2026-0325: 1.9.1.2 (LisiasT) for KSP >= 1.3.1
+	+ Something gone South last release. Dunno why, but rebuilding everything fixed the issue.
+		- ~~I must had messed up some building script, I think...~~ (Found the reason, I messed up the dependecy thingy).
+	+ Russian localization.
+		- Thanks [BezKartuza](https://forum.kerbalspaceprogram.com/profile/200469-bezkartuza/)!
 	+ Updates `KSPe.Light` to 2.5.5.2, fixing a lame mistake that prevented it from working on KSP < 1.8.0 🤦
+* 2026-0322: 1.9.1.1 (LisiasT) for KSP >= 1.3.1
+	+ ***DITCHED*** due a botched building.
 * 2023-0610: 1.9.1.0 (LisiasT) for KSP >= 1.3.1
 	+ Adds `ja` Localization
 * 2023-0129: 1.9.0.11 (LisiasT) for KSP >= 1.3.1
