@@ -1,5 +1,9 @@
 # Goo Pumps & Oils' Speed Pump :: Change Log
 
+* 2026-0520: 1.9.1.3 (LisiasT) for KSP >= 1.3.1
+	+ I think I finally detected the problem - DLL file permissions.
+		- DLLs without write permissions are not loaded, at least on MacOS (and I'm betting on Linux too).
+		- Rant: ***JESUS FSCKING CHRIST***, Unity/KSP (I don't know which one, to tell the truth) don't waste a single opportunity to go to that extra mile to be absolutely sure your rig is insecure. **DAMNIT**.
 * 2026-0325: 1.9.1.2 (LisiasT) for KSP >= 1.3.1
 	+ Something gone South last release. Dunno why, but rebuilding everything fixed the issue.
 		- ~~I must had messed up some building script, I think...~~ (Found the reason, I messed up the dependecy thingy).
